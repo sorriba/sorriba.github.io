@@ -10,4 +10,5 @@ B.S. in Human Biology; University of California, San Diego
 
 ### Projects
 
-<object data="Relational Database Design Final Project.pdf" width="1000" height="1000" type='application/pdf'/>
+Relational Database Design Project:
+https://sorriba.github.io/RDD-Final-Project/
