@@ -13,6 +13,6 @@ B.S. in Human Biology; University of California, San Diego (2015-2020)
 
 ### Relational Database Design Final Project
 I show a step-by-step development of a relational model to demonstrate my understanding of designing relational databases.
-[Click here to view my RDD Final Project](RDD-Final-Project.pdf)
+#[Click here to view my RDD Final Project](RDD-Final-Project.pdf)
 
 
