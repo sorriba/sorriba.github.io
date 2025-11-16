@@ -1,16 +1,17 @@
-# Data Science Student at CU Boulder
+# Data Science Grad Student at CU Boulder
 
 ### Education
 
-M.S. in Data Science; University of Colorado Boulder (Expected completion in May 2026)
+M.S. in Data Science; University of Colorado Boulder (Expected in May 2026)
 
-B.S. in Human Biology; University of California, San Diego 
+B.S. in Human Biology; University of California, San Diego (2015-2020)
 
 ### MSDS Coursework
 
 ### Projects
 
 Relational Database Design Project: 
+I show a step-by-step development of a relational model to demonstrate my understanding of designing relational databases.
 https://sorriba.github.io/RDD-Final-Project/
 
 
