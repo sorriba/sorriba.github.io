@@ -22,4 +22,8 @@ title: Home
 ## About Me
 I graduated from **UC San Diego with a B.S. in Human Biology.** I'm currently pursuing an **M.S. in Data Science at CU Boulder.** My goal is to leverage data-driven insights to make a meaningful impact in the healthcare industry.
 
+---
+## My Projects
 
+### Relational Database Design Project
+[RDD Final Project (PDF)](RDD-FinalProject.pdf)
