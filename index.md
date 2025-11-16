@@ -1,8 +1,12 @@
 ---
 layout: default
-title: Relational Database Design Project
+title: Home
 ---
 
-# My PDF
+# Welcome
 
-<embed src="{{ RDD-Final-Project.pdf }}" width="100%" height="1200px" type="application/pdf">
+Here is my PDF:
+
+#[Download my PDF](assets/resume.pdf)
+
+#![My Photo](assets/me.jpg)
