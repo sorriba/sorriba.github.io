@@ -26,7 +26,10 @@ I graduated from **UC San Diego with a B.S. in Human Biology.** I'm currently pu
 
 ### Relational Database Design Project
 This project was part of a course, it shows a step-by-step development of a relational model, which demonstrates my understanding of designing relational databases.
+
 [RDD Final Project (PDF)](RDD-FinalProject.pdf)
 
 ### Beginner SQL Project
-This was a beginner SQL project for a course. I applied basic SQL commands and concepts to the solution of three business/analytical problems.   
+This was a beginner SQL project for a course. I applied basic SQL commands and concepts to the solution of three business/analytical problems.
+
+[Intro to SQL Final Project (PDF)](SQLFinalProject.pdf)
