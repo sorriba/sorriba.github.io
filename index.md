@@ -3,12 +3,17 @@ layout: home
 title: Home
 ---
 
-# Hi, I'm Angel 👋
+# Hi, I'm Angel!
 
-Welcome to my website!
+Welcome to my data science portfolio!
 
-## 📄 PDF
-[Click here to view my PDF](RDD-FinalProject.pdf)
+<img src="IMG_6763.jpeg" 
+     alt="My Photo" 
+     width="120" 
+     style="border-radius: 50%; display: block; margin: 20px auto 40px auto;">
 
-## 📸 My Photo
-![My Photo](IMG_6763.jpeg)
+## My Projects
+1. This is my Relational database design project, it shows a step-by-step development of a relational model, which demonstrates my understanding of designing relational databases.
+[Relational Database Design Final Project (PDF) ](RDD-FinalProject.pdf)
+
+
