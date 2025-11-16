@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Home
+title: My Data Science Portfolio
 ---
 
 <!-- Circular Photo at the Top -->
 <img src="IMG_6763.jpeg" 
      alt="My Photo" 
-     width="200" 
+     width="300" 
      style="border-radius: 50%; display: block; margin: 20px auto;">
 
 
@@ -25,4 +25,8 @@ I graduated from **UC San Diego with a B.S. in Human Biology.** I'm currently pu
 ## My Projects
 
 ### Relational Database Design Project
+This project was part of a course, it shows a step-by-step development of a relational model, which demonstrates my understanding of designing relational databases.
 [RDD Final Project (PDF)](RDD-FinalProject.pdf)
+
+### Beginner SQL Project
+This was a beginner SQL project for a course. I applied basic SQL commands and concepts to the solution of three business/analytical problems.   
