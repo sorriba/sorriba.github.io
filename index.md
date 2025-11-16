@@ -7,10 +7,8 @@ title: Home
 
 Welcome to my website!
 
-## 📄 My Project PDF
+## 📄 PDF
 [Click here to view my PDF](RDD-FinalProject.pdf)
 
-## 📸 About Me
-Here’s a picture of me:
-
+## 📸 My Photo
 ![My Photo](IMG_6763.jpeg)
