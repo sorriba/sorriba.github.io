@@ -22,14 +22,21 @@ title: My Data Science Portfolio
 I graduated from **UC San Diego with a B.S. in Human Biology.** I'm currently pursuing an **M.S. in Data Science at CU Boulder.** My goal is to leverage data-driven insights to make a meaningful impact in the healthcare industry.
 
 ---
-## My Projects
+## My Projects (completed via MSDS coursework)
 
 ### Relational Database Design Project
 This project was part of a course, it shows a step-by-step development of a relational model, which demonstrates my understanding of designing relational databases.
 
 [RDD Final Project (PDF)](RDD-FinalProject.pdf)
 
+### Data Visualization Final Project
+My final project for my Fundamentals of Data Visualization course. I analyzed data from a dataset published by the CDC about comorbidities and COVID-19 deaths. Visual and code conducted in R Studio.
+
 ### Beginner SQL Project
 This was a beginner SQL project for a course. I applied basic SQL commands and concepts to the solution of three business/analytical problems.
 
 [Intro to SQL Final Project (PDF)](SQLFinalProject.pdf)
+
+### Cryptography in Healthcare Infographic (no coding involved)
+In my basics of cybersecurity course I created an infographic about cryptography in the healthcare industry. 
+[Cryptography Infographic (pdf)](Cryptography-Healthcare-Project.pdf)
