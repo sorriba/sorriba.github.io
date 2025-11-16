@@ -9,4 +9,5 @@ B.S. in Human Biology; University of California, San Diego
 ### MSDS Coursework
 
 ### Projects
-<a href="pdfs/Relational Database Design Final Project.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
+<object data="Relational Database Design Final Project.pdf" width="1000" height="1000" type='application/pdf'/>
