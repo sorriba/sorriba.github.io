@@ -6,11 +6,10 @@ title: Home
 <!-- Circular Photo at the Top -->
 <img src="IMG_6763.jpeg" 
      alt="My Photo" 
-     width="180" 
+     width="200" 
      style="border-radius: 50%; display: block; margin: 20px auto;">
 
-<!-- Your Name -->
-# Angel Sorri-Battaroff
+
 
 ---
 
