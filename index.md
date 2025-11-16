@@ -32,6 +32,8 @@ This project was part of a course, it shows a step-by-step development of a rela
 ### Data Visualization Final Project
 My final project for my Fundamentals of Data Visualization course. I analyzed data from a dataset published by the CDC about comorbidities and COVID-19 deaths. Visual and code conducted in R Studio.
 
+[Data Viz Final (pdf)](Data-Visualization-Final-Project.pdf)
+
 ### Beginner SQL Project
 This was a beginner SQL project for a course. I applied basic SQL commands and concepts to the solution of three business/analytical problems.
 
@@ -39,4 +41,5 @@ This was a beginner SQL project for a course. I applied basic SQL commands and c
 
 ### Cryptography in Healthcare Infographic (no coding involved)
 In my basics of cybersecurity course I created an infographic about cryptography in the healthcare industry. 
+
 [Cryptography Infographic (pdf)](Cryptography-Healthcare-Project.pdf)
