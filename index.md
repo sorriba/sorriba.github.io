@@ -8,7 +8,7 @@ title: Home
 Welcome to my website!
 
 ## 📄 My Relational Database Design Project PDF
-[Click here to view my PDF](RDD-Final-Project.pdf)
+[Click here to view my PDF](RDD-FinalProject.pdf)
 
 ## 📸 About Me
 Here’s a picture of me:
