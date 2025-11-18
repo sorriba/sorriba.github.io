@@ -48,6 +48,6 @@ In my basics of cybersecurity course I created an infographic about cryptography
 ### Analyzing Shooting Data in New York
 As part of a course I analyzed shooting incident data in NYC. I conducted analysis and visualization in R.
 
-Repository on Github: https://github.com/sorriba/FinalProject 
+[My Repo on Github](https://github.com/sorriba/FinalProject)
 
 [NYC Shooting Data (Powerpoint Slides as PDF)](NYPD_Data_powerpoint.pdf)
