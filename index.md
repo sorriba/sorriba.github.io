@@ -43,3 +43,10 @@ This was a beginner SQL project for a course. I applied basic SQL commands and c
 In my basics of cybersecurity course I created an infographic about cryptography in the healthcare industry. 
 
 [Cryptography Infographic (pdf)](Cryptography-Healthcare-Project.pdf)
+
+### Analyzing Shooting Data in New York
+As part of a course I analyzed shooting incident data in NYC. I conducted analysis and visualization in R.
+
+Repository on Github: https://github.com/sorriba/FinalProject 
+
+[NYC Shooting Data (Powerpoint Slides as PDF)](NYPD_Data_powerpoint.pdf)
