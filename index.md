@@ -29,6 +29,7 @@ This project was part of a course, it shows a step-by-step development of a rela
 
 [RDD Final Project (PDF)](RDD-FinalProject.pdf)
 
+[RDD Final Presentation Slides (PDF)](RDD_FinalPresentation.pdf)
 ### Data Visualization Final Project
 My final project for my Fundamentals of Data Visualization course. I analyzed data from a dataset published by the CDC about comorbidities and COVID-19 deaths. Visual and code conducted in R Studio.
 
