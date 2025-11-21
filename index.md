@@ -14,7 +14,7 @@ title: My Data Science Portfolio
 ---
 
 ## Resume
-<a href="Resume_AngelSorriBattaroff.pdf" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px; text-decoration: none;">View Resume</a>
+<a href="Resume_ASB_GitHub.pdf" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px; text-decoration: none;">View Resume</a>
 
 ---
 
